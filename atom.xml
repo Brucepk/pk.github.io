@@ -3,11 +3,11 @@
   <title>pk哥的博客</title>
   
   <subtitle>公众号「brucepk」</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/pk.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://brucepk.github.io/pk.github.io/"/>
   <updated>2018-09-16T02:14:23.130Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://brucepk.github.io/pk.github.io/</id>
   
   <author>
     <name>pk哥</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试测试</title>
-    <link href="http://yoursite.com/2018/09/16/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2018/09/16/测试测试/</id>
+    <link href="https://brucepk.github.io/pk.github.io/2018/09/16/%E6%B5%8B%E8%AF%95%E6%B5%8B%E8%AF%95/"/>
+    <id>https://brucepk.github.io/pk.github.io/2018/09/16/测试测试/</id>
     <published>2018-09-16T02:14:23.000Z</published>
     <updated>2018-09-16T02:14:23.130Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2018/09/16/article-title/"/>
-    <id>http://yoursite.com/2018/09/16/article-title/</id>
+    <link href="https://brucepk.github.io/pk.github.io/2018/09/16/article-title/"/>
+    <id>https://brucepk.github.io/pk.github.io/2018/09/16/article-title/</id>
     <published>2018-09-16T01:41:01.000Z</published>
     <updated>2018-09-16T01:46:45.664Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://yoursite.com/2018/09/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2018/09/15/我的第一篇文章/</id>
+    <link href="https://brucepk.github.io/pk.github.io/2018/09/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://brucepk.github.io/pk.github.io/2018/09/15/我的第一篇文章/</id>
     <published>2018-09-15T15:48:34.000Z</published>
     <updated>2018-09-15T15:50:40.563Z</updated>
     
@@ -67,8 +67,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/09/15/hello-world/"/>
-    <id>http://yoursite.com/2018/09/15/hello-world/</id>
+    <link href="https://brucepk.github.io/pk.github.io/2018/09/15/hello-world/"/>
+    <id>https://brucepk.github.io/pk.github.io/2018/09/15/hello-world/</id>
     <published>2018-09-15T11:47:43.927Z</published>
     <updated>2018-09-15T15:25:41.541Z</updated>
     
